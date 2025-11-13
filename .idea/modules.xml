@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/padroesprojeto.iml" filepath="$PROJECT_DIR$/.idea/padroesprojeto.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/padroesdeprojeto-master.iml" filepath="$PROJECT_DIR$/.idea/padroesdeprojeto-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/padroesprojeto/padroesprojeto.iml" filepath="$PROJECT_DIR$/padroesprojeto/padroesprojeto.iml" />
+>>>>>>> 499d4cb (Reconectando projeto)
     </modules>
   </component>
 </project>
